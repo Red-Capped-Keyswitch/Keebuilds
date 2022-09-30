@@ -1,2 +1,2 @@
-# keebuilds
-app to build the perfect mechanical keyboard
+# Keebuilds
+App to build the perfect mechanical keyboard!
